@@ -4,4 +4,5 @@ repo = "https://github.com/bgctw/RegistryTw.git"
 description = "bgctw's private Julia registry"
 
 [packages]
+876525fa-7cae-420f-8fd8-59a6b63fe7c3 = { name = "DistributionVectors", path = "D/DistributionVectors" }
 e455a6d6-8373-11eb-38a5-df3e63e3f6fc = { name = "MissingStrategies", path = "M/MissingStrategies" }
