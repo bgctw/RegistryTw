@@ -1,0 +1,6 @@
+name = "RegistryTw"
+uuid = "673a6d95-941e-46aa-9462-ec423441fff3"
+repo = "https://github.com/bgctw/RegistryTw.git"
+description = "bgctw's private Julia registry"
+
+[packages]
